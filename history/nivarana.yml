@@ -1,7 +1,7 @@
 url: https://nivarana.org
-status: up
-code: 200
-responseTime: 1012
-lastUpdated: 2025-10-04T23:10:00.974Z
+status: down
+code: 502
+responseTime: 541
+lastUpdated: 2025-10-05T21:20:18.724Z
 startTime: 2024-11-14T09:52:11.333Z
 generator: Upptime <https://github.com/upptime/upptime>
