@@ -36,9 +36,11 @@ sites:
   - name: Neralu
     url: https://neralu.net
   - name: HealthQuill
-    url: https://healthquill.com
+    # url: https://healthquill.com is proxied to prevent false positives
+    url: https://healthquill-status.free.gen.in
   - name: JSA
-    url: https://phmindia.org
+    # url: https://phmindia.org is proxied to prevent false positives
+    url: https://phmindia-status.free.gen.in
   - name: Bhumika
     url: https://bhumikasaraswati.com
   - name: BioRegister
