@@ -1,7 +1,7 @@
 url: https://tobaccodata.iphindia.org
-status: up
-code: 200
-responseTime: 1761
-lastUpdated: 2026-01-19T23:12:39.040Z
+status: down
+code: 502
+responseTime: 907
+lastUpdated: 2026-01-20T12:49:02.937Z
 startTime: 2023-12-30T19:14:12.610Z
 generator: Upptime <https://github.com/upptime/upptime>
