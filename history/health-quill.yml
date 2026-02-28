@@ -1,7 +1,7 @@
 url: https://healthquill-status.free.gen.in
-status: up
-code: 200
-responseTime: 2921
-lastUpdated: 2026-02-27T23:16:27.097Z
+status: down
+code: 504
+responseTime: 11455
+lastUpdated: 2026-02-28T09:43:01.864Z
 startTime: 2024-11-14T09:52:14.114Z
 generator: Upptime <https://github.com/upptime/upptime>
