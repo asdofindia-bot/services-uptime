@@ -1,7 +1,7 @@
 url: https://transcribe.sahya.org.in
-status: up
-code: 200
-responseTime: 782
-lastUpdated: 2026-06-27T23:54:13.200Z
+status: down
+code: 500
+responseTime: 646
+lastUpdated: 2026-06-28T18:41:29.628Z
 startTime: 2024-07-17T03:05:48.392Z
 generator: Upptime <https://github.com/upptime/upptime>
