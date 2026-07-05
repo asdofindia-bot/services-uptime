@@ -335,17 +335,17 @@
     "url": "https://tobaccodata.iphindia.org",
     "icon": "https://icons.duckduckgo.com/ip3/tobaccodata.iphindia.org.ico",
     "slug": "tobacco-data",
-    "status": "down",
+    "status": "up",
     "uptime": "97.52%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "71.10%",
-    "uptimeYear": "95.41%",
-    "time": 2079,
-    "timeDay": 3472,
-    "timeWeek": 2984,
-    "timeMonth": 2552,
-    "timeYear": 2114,
+    "uptimeDay": "94.49%",
+    "uptimeWeek": "97.97%",
+    "uptimeMonth": "70.92%",
+    "uptimeYear": "95.40%",
+    "time": 2082,
+    "timeDay": 3286,
+    "timeWeek": 2996,
+    "timeMonth": 2567,
+    "timeYear": 2116,
     "dailyMinutesDown": {
       "2025-07-25": 16,
       "2025-10-18": 81,
@@ -394,7 +394,7 @@
       "2026-06-22": 267,
       "2026-06-26": 257,
       "2026-06-30": 126,
-      "2026-07-05": 1
+      "2026-07-05": 79
     }
   },
   {
