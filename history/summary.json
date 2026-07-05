@@ -505,17 +505,17 @@
     "url": "https://transcribe.sahya.org.in",
     "icon": "https://icons.duckduckgo.com/ip3/transcribe.sahya.org.in.ico",
     "slug": "sahya-transcribe",
-    "status": "up",
+    "status": "down",
     "uptime": "94.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "91.29%",
-    "time": 970,
-    "timeDay": 1030,
-    "timeWeek": 857,
-    "timeMonth": 845,
-    "timeYear": 1017,
+    "time": 968,
+    "timeDay": 781,
+    "timeWeek": 844,
+    "timeMonth": 836,
+    "timeYear": 1015,
     "dailyMinutesDown": {
       "2026-01-08": 543,
       "2026-01-07": 192,
@@ -558,7 +558,8 @@
       "2026-03-02": 1440,
       "2026-03-01": 311,
       "2026-05-16": 60,
-      "2026-06-28": 79
+      "2026-06-28": 79,
+      "2026-07-05": 1
     }
   },
   {
