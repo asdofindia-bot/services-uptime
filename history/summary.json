@@ -82,7 +82,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/daktre.com.ico",
     "slug": "daktre",
     "status": "up",
-    "uptime": "97.52%",
+    "uptime": "97.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.66%",
     "uptimeMonth": "70.92%",
@@ -151,7 +151,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doddasampige.daktre.com.ico",
     "slug": "doddasampige",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "70.98%",
@@ -335,9 +335,9 @@
     "url": "https://tobaccodata.iphindia.org",
     "icon": "https://icons.duckduckgo.com/ip3/tobaccodata.iphindia.org.ico",
     "slug": "tobacco-data",
-    "status": "up",
+    "status": "down",
     "uptime": "97.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.75%",
     "uptimeMonth": "71.10%",
     "uptimeYear": "95.41%",
@@ -393,7 +393,8 @@
       "2026-06-19": 49,
       "2026-06-22": 267,
       "2026-06-26": 257,
-      "2026-06-30": 126
+      "2026-06-30": 126,
+      "2026-07-05": 1
     }
   },
   {
