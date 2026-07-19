@@ -335,10 +335,10 @@
     "url": "https://tobaccodata.iphindia.org",
     "icon": "https://icons.duckduckgo.com/ip3/tobaccodata.iphindia.org.ico",
     "slug": "tobacco-data",
-    "status": "up",
+    "status": "down",
     "uptime": "97.55%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.33%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.32%",
     "uptimeMonth": "98.07%",
     "uptimeYear": "95.38%",
     "time": 2117,
@@ -395,7 +395,8 @@
       "2026-06-26": 257,
       "2026-06-30": 126,
       "2026-07-05": 79,
-      "2026-07-15": 68
+      "2026-07-15": 68,
+      "2026-07-19": 1
     }
   },
   {
@@ -509,7 +510,7 @@
     "status": "up",
     "uptime": "93.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.99%",
+    "uptimeWeek": "78.52%",
     "uptimeMonth": "73.91%",
     "uptimeYear": "89.13%",
     "time": 989,
