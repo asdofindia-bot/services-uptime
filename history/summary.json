@@ -270,10 +270,10 @@
     "slug": "tobacco-questions",
     "status": "down",
     "uptime": "96.94%",
-    "uptimeDay": "94.50%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "95.38%",
+    "uptimeDay": "92.20%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "95.37%",
     "time": 1742,
     "timeDay": 1288,
     "timeWeek": 1201,
@@ -324,7 +324,7 @@
       "2026-07-20": 87,
       "2026-07-31": 162,
       "2026-08-07": 74,
-      "2026-08-08": 5
+      "2026-08-08": 39
     }
   },
   {
@@ -334,10 +334,10 @@
     "slug": "tobacco-data",
     "status": "down",
     "uptime": "97.56%",
-    "uptimeDay": "95.17%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "95.28%",
+    "uptimeDay": "92.87%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "95.27%",
     "time": 2173,
     "timeDay": 3233,
     "timeWeek": 3176,
@@ -397,7 +397,7 @@
       "2026-07-30": 96,
       "2026-07-31": 157,
       "2026-08-07": 69,
-      "2026-08-08": 1
+      "2026-08-08": 34
     }
   },
   {
@@ -512,7 +512,7 @@
     "uptime": "93.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.39%",
+    "uptimeMonth": "81.46%",
     "uptimeYear": "89.13%",
     "time": 989,
     "timeDay": 798,
