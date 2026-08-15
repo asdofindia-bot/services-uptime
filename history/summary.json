@@ -268,15 +268,15 @@
     "url": "https://tobaccoquestions.iphindia.org/api/dimensionValues/ministry",
     "icon": "https://icons.duckduckgo.com/ip3/tobaccoquestions.iphindia.org.ico",
     "slug": "tobacco-questions",
-    "status": "up",
+    "status": "down",
     "uptime": "96.94%",
-    "uptimeDay": "98.04%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.68%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "95.33%",
-    "time": 1743,
+    "time": 1744,
     "timeDay": 1176,
-    "timeWeek": 1258,
+    "timeWeek": 1244,
     "timeMonth": 1214,
     "timeYear": 1898,
     "dailyMinutesDown": {
@@ -326,7 +326,7 @@
       "2026-08-07": 74,
       "2026-08-08": 171,
       "2026-08-10": 54,
-      "2026-08-15": 28
+      "2026-08-15": 34
     }
   },
   {
@@ -334,15 +334,15 @@
     "url": "https://tobaccodata.iphindia.org",
     "icon": "https://icons.duckduckgo.com/ip3/tobaccodata.iphindia.org.ico",
     "slug": "tobacco-data",
-    "status": "up",
+    "status": "down",
     "uptime": "97.56%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "98.35%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "98.72%",
     "uptimeMonth": "97.91%",
     "uptimeYear": "95.22%",
-    "time": 2200,
+    "time": 2201,
     "timeDay": 3275,
-    "timeWeek": 3129,
+    "timeWeek": 3175,
     "timeMonth": 3154,
     "timeYear": 2267,
     "dailyMinutesDown": {
@@ -402,7 +402,7 @@
       "2026-08-08": 163,
       "2026-08-10": 49,
       "2026-08-11": 55,
-      "2026-08-15": 23
+      "2026-08-15": 24
     }
   },
   {
