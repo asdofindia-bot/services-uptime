@@ -268,17 +268,17 @@
     "url": "https://tobaccoquestions.iphindia.org/api/dimensionValues/ministry",
     "icon": "https://icons.duckduckgo.com/ip3/tobaccoquestions.iphindia.org.ico",
     "slug": "tobacco-questions",
-    "status": "down",
+    "status": "up",
     "uptime": "96.97%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "95.32%",
     "time": 1744,
-    "timeDay": 884,
-    "timeWeek": 1246,
-    "timeMonth": 1233,
-    "timeYear": 1895,
+    "timeDay": 1030,
+    "timeWeek": 1238,
+    "timeMonth": 1232,
+    "timeYear": 1894,
     "dailyMinutesDown": {
       "2025-10-03": 15,
       "2025-12-03": 78,
@@ -328,7 +328,7 @@
       "2026-08-10": 54,
       "2026-08-15": 55,
       "2026-08-24": 41,
-      "2026-08-25": 6
+      "2026-08-25": 20
     }
   },
   {
@@ -336,17 +336,17 @@
     "url": "https://tobaccodata.iphindia.org",
     "icon": "https://icons.duckduckgo.com/ip3/tobaccodata.iphindia.org.ico",
     "slug": "tobacco-data",
-    "status": "down",
+    "status": "up",
     "uptime": "97.58%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.43%",
-    "uptimeMonth": "98.42%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "98.39%",
     "uptimeYear": "95.21%",
-    "time": 2229,
-    "timeDay": 2877,
-    "timeWeek": 3069,
-    "timeMonth": 3192,
-    "timeYear": 2301,
+    "time": 2231,
+    "timeDay": 3267,
+    "timeWeek": 3128,
+    "timeMonth": 3203,
+    "timeYear": 2304,
     "dailyMinutesDown": {
       "2025-10-18": 81,
       "2025-11-05": 68,
@@ -407,7 +407,7 @@
       "2026-08-15": 46,
       "2026-08-23": 20,
       "2026-08-24": 36,
-      "2026-08-25": 1
+      "2026-08-25": 15
     }
   },
   {
@@ -521,8 +521,8 @@
     "status": "down",
     "uptime": "93.89%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "73.44%",
-    "uptimeMonth": "93.89%",
+    "uptimeWeek": "73.30%",
+    "uptimeMonth": "93.86%",
     "uptimeYear": "88.62%",
     "time": 989,
     "timeDay": 569,
@@ -581,7 +581,7 @@
       "2026-07-07": 1440,
       "2026-07-06": 1440,
       "2026-07-05": 303,
-      "2026-08-25": 1367,
+      "2026-08-25": 1381,
       "2026-08-24": 1310
     }
   },
