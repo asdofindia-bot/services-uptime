@@ -42,6 +42,12 @@ sites:
     url: https://bhumikasaraswati.com
   - name: BioRegister
     url: https://bioregister.in
+  - name: SOCHARA website
+    url: https://sochara.org
+  - name: SOCHARA archives
+    url: https://archives.sochara.org
+  - name: SOCHARA LMS
+    url: https://lms.sophea-sochara.org
 
 assignees:
   - asdofindia
